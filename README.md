@@ -72,4 +72,3 @@ track orders, and view financial reports, while users can browse, buy, and rent 
   
 ### Contributing
   Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss changes.
-
